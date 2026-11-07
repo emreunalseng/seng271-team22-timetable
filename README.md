@@ -78,7 +78,7 @@ Generated files will be saved in output/: the timetable summary and the classroo
 ## Versions
 | Version | Tag | Date | Summary |
 | --- | --- | --- | --- |
-| Code v1 | code-v1 | 10.11.2026 | Project skeleton and main menu |
+| Code v1 | code-v1 | 07.11.2026 | Project skeleton and main menu |
 | Code v2 | code-v2 | planned (Week 8) | Input file processing and object management |
 | Code v3 | code-v3 | planned (Week 9) | Initial automatic scheduling algorithm and conflict detection |
 | Code v4 | code-v4 | planned (Week 10) | Working core scheduling functionality (Checkpoint 2) |
