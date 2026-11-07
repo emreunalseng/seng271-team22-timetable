@@ -1,0 +1,28 @@
+# Compiled Java files
+out/
+*.class
+
+# IntelliJ IDEA
+# Personal settings stay out of Git. Only the shared settings that every
+# team member needs are kept: the JDK and output folder (misc.xml), the
+# module list (modules.xml), the run configuration "Main" and the module
+# file (src = Sources Root).
+.idea/*
+!.idea/.gitignore
+!.idea/misc.xml
+!.idea/modules.xml
+!.idea/runConfigurations/
+*.iml
+!DepartmentTimetableSysyem.iml
+*.iws
+*.ipr
+
+# Operating system and Office temporary files
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+*.tmp
+
+# Local working folders (their names start with an underscore; not part of the submission)
+/_*/
