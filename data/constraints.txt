@@ -1,0 +1,11 @@
+# One request per line: PRIORITY | TYPE | TARGET | VALUE | NOTE
+# PRIORITY: MANDATORY or PREFERRED
+# TYPE and TARGET:
+#   FIXED_TIME             | session (SENG301-T)  | time (Wed 13:00-16:00)
+#   REQUIRED_ROOM          | session (SENG401-L)  | room (B202)
+#   INSTRUCTOR_UNAVAILABLE | course  (SENG201)    | time (Fri)
+#   LAB_BEFORE_THEORY      | course  (SENG302)    | (empty)
+#   BLOCKED_TIME           | year    (3)          | time (Fri 13:00-15:00)
+MANDATORY | FIXED_TIME | SENG301-T | Wed 13:00-16:00 | Wednesday afternoon
+MANDATORY | FIXED_TIME | SENG305-T | Fri 09:00-12:00 | Friday morning
+PREFERRED | REQUIRED_ROOM | SENG401-L | B202 | Needs the big laboratory

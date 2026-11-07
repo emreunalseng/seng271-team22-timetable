@@ -1,0 +1,9 @@
+# One instructor per line: id,name,courses,unavailable,preferred
+# Use ; between several courses or several times. Empty fields are allowed.
+# Time format: Mon 09:00-12:00   (or only "Fri" for the whole day)
+# preferred is MORNING, AFTERNOON or NONE
+I01,Dr. Kaya,SENG101;SENG203,,NONE
+I02,Dr. Demir,SENG201,Mon 09:00-12:00,NONE
+I03,Dr. Yildiz,SENG301,,NONE
+I04,Dr. Sahin,SENG305,Fri,NONE
+I05,Dr. Aksoy,SENG401,,MORNING

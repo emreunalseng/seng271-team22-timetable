@@ -1,0 +1,7 @@
+code,title,year,instructor,theoryHours,labHours,students
+SENG101,Introduction to Software Engineering,1,Dr. Kaya,3,2,70
+SENG201,Object-Oriented Programming,2,Dr. Demir,3,2,55
+SENG203,Data Structures,2,Dr. Kaya,3,2,38
+SENG301,Software Architecture,3,Dr. Yildiz,3,0,45
+SENG305,Software Testing,3,Dr. Sahin,3,0,40
+SENG401,Software Project Management,4,Dr. Aksoy,2,2,30
